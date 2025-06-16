@@ -2,6 +2,9 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// デスベス
+/// </summary>
 public abstract class DeathBase : MonoBehaviour
 {
     [SerializeField]
